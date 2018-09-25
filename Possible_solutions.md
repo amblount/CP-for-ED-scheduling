@@ -8,6 +8,7 @@ Here are a few which were suggested:
 - learning algorithms
 - genetic algorithms
 - diversity algorithms
+- linear programming
 
 Thinking through how reinforcement learning could be used to solve the problem:
 
