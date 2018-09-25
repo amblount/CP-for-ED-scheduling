@@ -18,4 +18,18 @@ in the ED, then they need to be placed on the schedule in the ED.
 
 ### Current composition of the UCSF Emergency Department
 
-The UCSF Emergency Department is composed of 4 different facilities with different shifts, each shift is 8-hours in length. 
+The UCSF Emergency Department is composed of 4 different facilities with different shifts, each shift is 8-hours in length. There are current regulations in place which state that residents must have 8-hours off between shifts and residents must not work more than 7 consecutive days in a row. 
+
+### Other constraints
+
+- clinicals
+- diacdics
+- exams
+
+These three residency requirements are not shifts but they are a critical part of the residents learning experience and they are shorter in time span when they do occur around 2-3 hours. 
+
+### Current software
+
+Currently the chief resident at each facility is doing the manual scheduling and using a generic scheduling tool to create block schedules for the month. The software is not performing very well at the moment and the resident is required to go in and update the schedule each day to make sure the software falls in line with the system constraints. 
+
+
