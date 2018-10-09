@@ -23,4 +23,5 @@ Deliverable:
 
 Deep reinforcement learning as a service platform that can learn a policy using a specific simulation environment or existing dataset. The service needs to interfaces with the engineer to gather the model and objective function and potentially take advantage of imitation learning and off-policy learning to improve the speed of convergence and gather bounds on each parameter to help reduce search space. The service should take advantage of asynchronous and parallel deep RL techniques to speed up the learning process as well. The accuracy of policy should exceed human generated policy. 
 
-
+### Deliverable | [Link](https://ucsf-er-resident-scheduler.firebaseapp.com/)
+![alt text](https://github.com/amblount/CP-for-ED-scheduling/blob/master/public/Screen%20Shot%202018-10-01%20at%203.14.25%20PM.png)
