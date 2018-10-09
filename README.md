@@ -7,6 +7,9 @@ Emergency rooms are open 24 hours a day, 7 days each week and need to be schedul
 
 I worked with the University of California, San Francisco (UCSF) to automate their emergency resident scheduling process given a set of defined constraints.
 
+### Modeling the Problem before consulting with the team
+![alt text](https://github.com/amblount/CP-for-ED-scheduling/blob/master/public/Screen%20Shot%202018-09-13%20at%205.53.07%20PM.png)
+
 ### Reinforcement Learning solution case statement
 
 I am very interested in diving into the field of reinforcement learning and I wanted to play around in the open AI gym and explore solutions to the scheduling process using reinforcement learning. I started the process with the following case statement:
