@@ -29,5 +29,8 @@ Deep reinforcement learning as a service platform that can learn a policy using 
 ### Scheduling Constraints
 ![alt text](https://github.com/amblount/CP-for-ED-scheduling/blob/master/public/Screen%20Shot%202018-09-19%20at%204.13.07%20PM.png)
 
+### The dataframe
+![alt text](https://github.com/amblount/CP-for-ED-scheduling/blob/master/public/Screen%20Shot%202018-09-27%20at%205.14.03%20PM.png)
+
 ### Deliverable | [Link](https://ucsf-er-resident-scheduler.firebaseapp.com/)
 ![alt text](https://github.com/amblount/CP-for-ED-scheduling/blob/master/public/Screen%20Shot%202018-10-01%20at%203.14.25%20PM.png)
