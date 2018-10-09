@@ -10,6 +10,9 @@ I worked with the University of California, San Francisco (UCSF) to automate the
 ### Modeling the Problem before consulting with the team
 ![alt text](https://github.com/amblount/CP-for-ED-scheduling/blob/master/public/Screen%20Shot%202018-09-13%20at%205.53.07%20PM.png)
 
+### The initial data set
+![alt text](https://github.com/amblount/CP-for-ED-scheduling/blob/master/public/Screen%20Shot%202018-09-17%20at%203.19.31%20PM.png)
+
 ### Reinforcement Learning solution case statement
 
 I am very interested in diving into the field of reinforcement learning and I wanted to play around in the open AI gym and explore solutions to the scheduling process using reinforcement learning. I started the process with the following case statement:
