@@ -1,4 +1,8 @@
 # Contraint Programming
+
+Update March - 2020
+I have learned a LOT more about implementing RL algorithms and deep learning in general and have finally gotten some cloud credits which I know how to consume. This is project is back up and running and if you would like to follow it I will be writing about it on Medium.
+
 Project Description | [Blog Post](https://medium.com/@aliviablount/automating-scheduling-for-ed-residents-at-ucsf-a2aa8b9ab880) | [Deliverable](https://ucsf-er-resident-scheduler.firebaseapp.com/) | [Deck](https://docs.google.com/presentation/d/1smte-YGZOKlLCHbLX0G0h4l_VAnCZLc8aCQ_O2M8Flk/edit#slide=id.p)
 
 Emergency room physicians are specialized medical providers who are only able to work in one section of the hospital; the emergency room. The ER is open 24 hours per day and 7 days per week. In any given network there are a given number of ER physicians available and these physicians must be shared amongst the facilities, we can think of a facility as on particular emergency room in a specific hospital with a full staff requirement. The full staff requirement is met when the target number of physicians per shift is scheduled for a given period of time, say 7 days. The problem is the individual facilities are sharing physicians within the network and by law, physicians are not allowed to work more than 6 consecutive days in a row and for any individual physician, there must be 480 minutes or 8-hours between shifts.
